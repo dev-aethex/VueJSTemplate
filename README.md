@@ -1,1 +1,1 @@
-# VueJSTemplate
+## VueJS Template
