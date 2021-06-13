@@ -1,7 +1,5 @@
 <template>
-    <div class="View">
-        <h1>VueJS Template</h1>
-    </div>
+    <div class="View"></div>
 </template>
 
 <style lang="less" scoped>
